@@ -121,6 +121,7 @@ Open your browser and visit:
 
 ## 🧭 Project Structure (Key Parts)
 
+```bash
 app/
 ├── Models/
 │   ├── User.php
@@ -140,7 +141,7 @@ database/
 │   ├── AdminUserSeeder.php
 │   ├── LocationSeeder.php
 │   └── ServiceSeeder.php
-
+```
 
 ---
 
@@ -189,4 +190,4 @@ Perfect for presenting to clients and moving to full MVP development.
 
 Siamak Nagheli  
 📧 30amak89@gmail.com  
-💼 Upwork Profile: https://www.upwork.com/freelancers/~01b2c3d4e5f6g7h8i9j
+💼 Upwork Profile: [https://www.upwork.com/freelancers/~01b2c3d4e5f6g7h8i9j](https://www.upwork.com/freelancers/~01e1a64370bf2cf158?viewMode=1)
