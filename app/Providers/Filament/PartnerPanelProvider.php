@@ -25,6 +25,9 @@ class PartnerPanelProvider extends PanelProvider
         return $panel
             ->id('partner')
             ->path('partner')
+            ->login()
+            ->registration()
+            ->profile()
             ->colors([
                 'primary' => Color::Amber,
             ])
